@@ -26,10 +26,12 @@ h1{
   position: relative;
   /* z-index: 0; */
 }
-@media (max-width: 900px){
+@media (max-width: 1028px){
   .iphone-img{
     transform: rotate(0);
-    margin: 5% auto 0 auto;
+  }
+  #title{
+    text-align: center;
   }
 }
 .navbar{
