@@ -1,9 +1,10 @@
 #title{
-  background-color: #a35709;
+  background-color: #ff8303;
   color: #fff;
 }
 body{
   background-color: #1b1a17;
+  color: #f0e3ca;
 }
 h1{
   font-family: 'Montserrat-black', sans-serif;
@@ -42,15 +43,11 @@ h1{
 .download{
   margin: 5% 3% 7% 3%;
 }
-/* .features-row{
-  padding: 10% 7% 7% 7%;
-} */
 .features{
   text-align: center;
 }
 #features{
   position: relative;
-  background-color: white;
   padding: 10rem 15% 10px 15% ;
   bottom: 10rem;
 }
@@ -66,13 +63,13 @@ p{
 .fas{
   font-size: 3.5rem;
   margin-bottom: 1rem;
-  color: #ff8303;
-}
-.fas:hover{
   color: #a35709;
 }
+.fas:hover{
+  color: #ff8303;
+}
 #testimonials{
-  background-color: #ff8303;
+  background-color: #a35709;
   text-align: center;
   color: #fff;
   padding: 7% 15%;
@@ -105,7 +102,7 @@ h2{
 }
 #cta{
   text-align: center;
-  background-color: #a35709;
+  background-color: #ff8303;
 }
 .cta{
   padding: 10% 15%;
