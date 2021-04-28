@@ -1,6 +1,7 @@
 #title{
   background-color: #ff8303;
   color: #fff;
+  opacity: 0.9;
 }
 body{
   background-color: #1b1a17;
@@ -50,11 +51,12 @@ h1{
   position: relative;
   padding: 10rem 15% 10px 15% ;
   bottom: 10rem;
+  background-color: #1b1a17;
 }
 h3{
   font-family: "Montserrat-black", sans-serif;
   font-weight: 700;
-  color: #000;
+  color: #f0e3ca;
 }
 p{
   color: #8f8f8f;
@@ -99,10 +101,12 @@ h2{
 }
 .pricing-card{
   margin-top: 3%;
+  color: #000;
 }
 #cta{
   text-align: center;
   background-color: #ff8303;
+  opacity: 0.9;
 }
 .cta{
   padding: 10% 15%;
@@ -122,7 +126,7 @@ h2{
   text-align: center;
 }
 .footer-icon{
-  color: #000;
+  color: #fff;
   margin: 5px;
   font-size: 20px;
 }
