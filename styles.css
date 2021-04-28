@@ -26,6 +26,12 @@ h1{
   position: relative;
   /* z-index: 0; */
 }
+@media (max-width: 900px){
+  .iphone-img{
+    transform: rotate(0);
+    margin: 5% auto 0 auto;
+  }
+}
 .navbar{
   padding-bottom: 4.5rem;
 }
